@@ -1,0 +1,334 @@
+{
+  "AC": {
+    "vizinhos": [
+      "AM",
+      "RO"
+    ],
+    "tamanho": 1641,
+    "coordenadas": [
+      -8.77,
+      -70.55
+    ]
+  },
+  "AL": {
+    "vizinhos": [
+      "SE",
+      "PE",
+      "BA"
+    ],
+    "tamanho": 278,
+    "coordenadas": [
+      -9.71,
+      -35.73
+    ]
+  },
+  "AP": {
+    "vizinhos": [
+      "PA"
+    ],
+    "tamanho": 1424,
+    "coordenadas": [
+      1.41,
+      -51.77
+    ]
+  },
+  "AM": {
+    "vizinhos": [
+      "AC",
+      "RO",
+      "RR",
+      "PA",
+      "MT"
+    ],
+    "tamanho": 15591,
+    "coordenadas": [
+      -3.07,
+      -61.66
+    ]
+  },
+  "BA": {
+    "vizinhos": [
+      "SE",
+      "AL",
+      "PE",
+      "PI",
+      "TO",
+      "GO",
+      "MG",
+      "ES"
+    ],
+    "tamanho": 5647,
+    "coordenadas": [
+      -12.96,
+      -40.51
+    ]
+  },
+  "CE": {
+    "vizinhos": [
+      "RN",
+      "PB",
+      "PE",
+      "PI"
+    ],
+    "tamanho": 1488,
+    "coordenadas": [
+      -3.71,
+      -38.54
+    ]
+  },
+  "ES": {
+    "vizinhos": [
+      "BA",
+      "MG",
+      "RJ"
+    ],
+    "tamanho": 460,
+    "coordenadas": [
+      -19.19,
+      -40.34
+    ]
+  },
+  "GO": {
+    "vizinhos": [
+      "MG",
+      "BA",
+      "TO",
+      "MT",
+      "MS"
+    ],
+    "tamanho": 3402,
+    "coordenadas": [
+      -16.64,
+      -49.31
+    ]
+  },
+  "MA": {
+    "vizinhos": [
+      "PI",
+      "TO",
+      "PA"
+    ],
+    "tamanho": 3296,
+    "coordenadas": [
+      -2.55,
+      -44.3
+    ]
+  },
+  "MT": {
+    "vizinhos": [
+      "MS",
+      "GO",
+      "TO",
+      "PA",
+      "AM",
+      "RO"
+    ],
+    "tamanho": 9032,
+    "coordenadas": [
+      -12.64,
+      -55.42
+    ]
+  },
+  "MS": {
+    "vizinhos": [
+      "MT",
+      "GO",
+      "MG",
+      "SP",
+      "PR"
+    ],
+    "tamanho": 3571,
+    "coordenadas": [
+      -20.51,
+      -54.54
+    ]
+  },
+  "MG": {
+    "vizinhos": [
+      "SP",
+      "RJ",
+      "ES",
+      "BA",
+      "GO",
+      "MS"
+    ],
+    "tamanho": 5865,
+    "coordenadas": [
+      -18.1,
+      -44.38
+    ]
+  },
+  "PA": {
+    "vizinhos": [
+      "MA",
+      "AP",
+      "RR",
+      "AM",
+      "MT",
+      "TO"
+    ],
+    "tamanho": 12458,
+    "coordenadas": [
+      -5.53,
+      -52.29
+    ]
+  },
+  "PB": {
+    "vizinhos": [
+      "RN",
+      "CE",
+      "PE"
+    ],
+    "tamanho": 564,
+    "coordenadas": [
+      -7.06,
+      -35.85
+    ]
+  },
+  "PR": {
+    "vizinhos": [
+      "SP",
+      "MS",
+      "SC"
+    ],
+    "tamanho": 1992,
+    "coordenadas": [
+      -24.89,
+      -51.55
+    ]
+  },
+  "PE": {
+    "vizinhos": [
+      "PB",
+      "CE",
+      "PI",
+      "BA",
+      "AL"
+    ],
+    "tamanho": 980,
+    "coordenadas": [
+      -8.28,
+      -37.77
+    ]
+  },
+  "PI": {
+    "vizinhos": [
+      "BA",
+      "CE",
+      "MA",
+      "TO",
+      "PE"
+    ],
+    "tamanho": 2517,
+    "coordenadas": [
+      -8.28,
+      -43.68
+    ]
+  },
+  "RJ": {
+    "vizinhos": [
+      "SP",
+      "ES",
+      "MG"
+    ],
+    "tamanho": 437,
+    "coordenadas": [
+      -22.84,
+      -43.15
+    ]
+  },
+  "RN": {
+    "vizinhos": [
+      "PB",
+      "CE"
+    ],
+    "tamanho": 528,
+    "coordenadas": [
+      -4.41,
+      -36.52
+    ]
+  },
+  "RS": {
+    "vizinhos": [
+      "SC"
+    ],
+    "tamanho": 2817,
+    "coordenadas": [
+      -30.01,
+      -51.22
+    ]
+  },
+  "RO": {
+    "vizinhos": [
+      "MT",
+      "AM",
+      "AC"
+    ],
+    "tamanho": 2377,
+    "coordenadas": [
+      -11.22,
+      -62.8
+    ]
+  },
+  "RR": {
+    "vizinhos": [
+      "AM",
+      "PA"
+    ],
+    "tamanho": 2236,
+    "coordenadas": [
+      1.89,
+      -61.22
+    ]
+  },
+  "SC": {
+    "vizinhos": [
+      "RS",
+      "PR"
+    ],
+    "tamanho": 957,
+    "coordenadas": [
+      -27.33,
+      -49.44
+    ]
+  },
+  "SP": {
+    "vizinhos": [
+      "PR",
+      "MS",
+      "MG",
+      "RJ"
+    ],
+    "tamanho": 2482,
+    "coordenadas": [
+      -23.55,
+      -46.64
+    ]
+  },
+  "SE": {
+    "vizinhos": [
+      "BA",
+      "AL"
+    ],
+    "tamanho": 219,
+    "coordenadas": [
+      -11.9,
+      -36.07
+    ]
+  },
+  "TO": {
+    "vizinhos": [
+      "MA",
+      "PA",
+      "MT",
+      "GO",
+      "BA",
+      "PI"
+    ],
+    "tamanho": 2774,
+    "coordenadas": [
+      -10.25,
+      -48.25
+    ]
+  }
+}
