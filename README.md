@@ -5,3 +5,4 @@ Cada diretório contém um assunto
 
 * [grafos](grafos/) contém códigos que implementam o algotirmo Dsatur para coloração de grafos. 
 * [python](python/) contém um _cheat sheet_ de tradução do código python para código julia. 
+* [http](http/) contém exemplo de como implementar uma API em julia. 
